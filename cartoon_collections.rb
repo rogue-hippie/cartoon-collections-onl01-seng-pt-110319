@@ -25,9 +25,4 @@ def find_the_cheese(foods)
   
 end
 
-iterate through the cheeses:
-  for each cheese:
-    if the sentence contains that cheese
-      return the cheese
-    end if
-  end loop
+
