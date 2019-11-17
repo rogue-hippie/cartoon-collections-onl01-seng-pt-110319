@@ -21,6 +21,8 @@ def find_the_cheese(foods)
   for foods.each 
     if foods.include?(cheese_types)
       return 
+    end
+  end
   
 end
 
