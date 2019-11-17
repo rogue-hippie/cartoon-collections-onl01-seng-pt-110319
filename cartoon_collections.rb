@@ -1,5 +1,5 @@
 def roll_call_dwarves(dwarves)
-  dwarves.map.with_index
+  dwarves.map.with_index(1) do 
 end
 
 def summon_captain_planet# code an argument here
