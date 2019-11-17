@@ -20,5 +20,6 @@ def find_the_cheese(queso)
   
   if queso.include?(cheese_types)
     puts "#{queso.include?(cheese_types)}"
+  end
   
 end
