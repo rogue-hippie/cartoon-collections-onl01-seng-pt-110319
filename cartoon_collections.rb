@@ -11,6 +11,7 @@ end
 def long_planeteer_calls(words)
   words.all? do |name|
     name.length > 4
+  end
     
 end
 
